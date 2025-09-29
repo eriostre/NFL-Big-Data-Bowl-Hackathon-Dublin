@@ -14,7 +14,7 @@ This analysis connects **physical traits** (height, weight) to **pass protection
 
 ## Repository Contents
 - `analysis_notebook.ipynb` – Jupyter notebook containing the full analysis code and visualizations.
-- `report.pdf` – Written report (under 500 words) summarizing the findings and including the four graphs.
+- `report.docx` – Written report (under 500 words) summarizing the findings and including the four graphs.
 - `figures/` – Graphs generated from the analysis (PNG format).
 
 **Note:** The raw NFL and PFF data files from the Big Data Bowl are **not included** in this repository due to competition licensing. See below for instructions to obtain the data.
